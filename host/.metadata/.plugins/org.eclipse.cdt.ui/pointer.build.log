@@ -1,8 +1,0 @@
-12:54:16 **** Clean-only build of configuration Debug for project pointer ****
-make clean 
-rm -rf ./main.d ./main.o
-rm -rf pointer
- 
-
-12:54:17 Build Finished. 0 errors, 0 warnings. (took 1s.388ms)
-

@@ -1,7 +1,7 @@
 # Embedded-C-STM32
 
 ## Open OCD semihosting configuration
-![Open OCD semihosting configuration](Images/open-ocd.png)
+![Open OCD semihosting configuration](images/open-ocd.png)
 
 ### Set the linker arguments 
 ```

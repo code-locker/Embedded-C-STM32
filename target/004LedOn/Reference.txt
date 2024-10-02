@@ -1,0 +1,8 @@
+Address of the clock control register (AHB1ENR)
+0x4002800+0x30=0x40023830
+
+Address of the GPIOD mode register (used to control mode)
+0x40020C00+0x00=0x40020C00
+
+Address of the GPIOD output data register (used to write)
+0x40020C00+0x14=0x40020C14
